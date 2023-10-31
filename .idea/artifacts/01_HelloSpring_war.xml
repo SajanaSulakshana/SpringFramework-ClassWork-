@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="01-HelloSpring:war">
+    <output-path>$PROJECT_DIR$/01-HelloSpring/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>01-HelloSpring</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="GetStartSpringMVC-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="01-HelloSpring:war exploded" />
+    </root>
+  </artifact>
+</component>

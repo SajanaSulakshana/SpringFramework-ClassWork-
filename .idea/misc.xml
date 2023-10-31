@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/01-HelloSpring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-HelloSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/02-BeanLifeCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/03-SpringScope/pom.xml" />
+        <option value="$PROJECT_DIR$/04-DI_Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/05-FullModeVsLightMode/pom.xml" />
+        <option value="$PROJECT_DIR$/06-Configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/07-RunTimeValueInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/08-SpringEnvironment/pom.xml" />
+        <option value="$PROJECT_DIR$/09-SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/10-ResetControllers/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/02-BeanLifeCycle/03-BeanScope/pom.xml" />
+        <option value="$PROJECT_DIR$/06-Configuration/07-RunTimeValueInjection/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

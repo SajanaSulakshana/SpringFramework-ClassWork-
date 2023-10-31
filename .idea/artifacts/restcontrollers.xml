@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="restcontrollers">
+    <output-path>$PROJECT_DIR$/out/artifacts/restcontrollers</output-path>
+    <root id="archive" name="restcontrollers.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="10-ResetControllers" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.22" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.22" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.22" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.22" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="10-ResetControllers/web/Web" />
+    </root>
+  </artifact>
+</component>

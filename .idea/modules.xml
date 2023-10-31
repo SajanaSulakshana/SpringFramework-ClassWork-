@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-HelloSpring/01-HelloSpring.iml" filepath="$PROJECT_DIR$/01-HelloSpring/01-HelloSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-BeanLifeCycle/02-BeanLifeCycle.iml" filepath="$PROJECT_DIR$/02-BeanLifeCycle/02-BeanLifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-SpringScope/03-SpringScope.iml" filepath="$PROJECT_DIR$/03-SpringScope/03-SpringScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-DI_Spring/04-DI_Spring.iml" filepath="$PROJECT_DIR$/04-DI_Spring/04-DI_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-FullModeVsLightMode/05-FullModeVsLightMode.iml" filepath="$PROJECT_DIR$/05-FullModeVsLightMode/05-FullModeVsLightMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Configuration/06-Configuration.iml" filepath="$PROJECT_DIR$/06-Configuration/06-Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-RunTimeValueInjection/07-RunTimeValueInjection.iml" filepath="$PROJECT_DIR$/07-RunTimeValueInjection/07-RunTimeValueInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-SpringEnvironment/08-SpringEnvironment.iml" filepath="$PROJECT_DIR$/08-SpringEnvironment/08-SpringEnvironment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-SpringMVC/09-SpringMVC.iml" filepath="$PROJECT_DIR$/09-SpringMVC/09-SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-ResetControllers/10-ResetControllers.iml" filepath="$PROJECT_DIR$/10-ResetControllers/10-ResetControllers.iml" />
+    </modules>
+  </component>
+</project>
